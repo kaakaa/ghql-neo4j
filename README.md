@@ -1,6 +1,8 @@
 # RUN
 
 ```
+docker-compose up -d # run Neo4j & redis
+
 npm install
 
 export GITHUB_API_TOKEN=APISTRINGS
